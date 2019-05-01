@@ -11,8 +11,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/ltcsuite/ltcd/wire"
-	"github.com/ltcsuite/ltcutil/txsort"
+	"github.com/mraksoll4/ltcd/wire"
+	"github.com/mraksoll4/ltcutil/txsort"
 )
 
 // TestSort ensures the transaction sorting works according to the BIP.

@@ -11,10 +11,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ltcsuite/ltcd/chaincfg/chainhash"
-	"github.com/ltcsuite/ltcd/wire"
-	"github.com/ltcsuite/ltcutil"
-	"github.com/ltcsuite/ltcutil/coinset"
+	"github.com/mraksoll4/ltcd/chaincfg/chainhash"
+	"github.com/mraksoll4/ltcd/wire"
+	"github.com/mraksoll4/ltcutil"
+	"github.com/mraksoll4/ltcutil/coinset"
 )
 
 type TestCoin struct {

@@ -1,11 +1,11 @@
 hdkeychain
 ==========
 
-[![Build Status](http://img.shields.io/travis/ltcsuite/ltcutil.svg)]
-(https://travis-ci.org/ltcsuite/ltcutil) [![ISC License]
+[![Build Status](http://img.shields.io/travis/mraksoll4/ltcutil.svg)]
+(https://travis-ci.org/mraksoll4/ltcutil) [![ISC License]
 (http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
 [![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)]
-(http://godoc.org/github.com/ltcsuite/ltcutil/hdkeychain)
+(http://godoc.org/github.com/mraksoll4/ltcutil/hdkeychain)
 
 Package hdkeychain provides an API for litecoin hierarchical deterministic
 extended keys (BIP0032).
@@ -41,21 +41,21 @@ report.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/ltcsuite/ltcutil/hdkeychain
+$ go get -u github.com/mraksoll4/ltcutil/hdkeychain
 ```
 
 ## Examples
 
 * [NewMaster Example]
-  (http://godoc.org/github.com/ltcsuite/ltcutil/hdkeychain#example-NewMaster)  
+  (http://godoc.org/github.com/mraksoll4/ltcutil/hdkeychain#example-NewMaster)  
   Demonstrates how to generate a cryptographically random seed then use it to
   create a new master node (extended key).
 * [Default Wallet Layout Example]
-  (http://godoc.org/github.com/ltcsuite/ltcutil/hdkeychain#example-package--DefaultWalletLayout)  
+  (http://godoc.org/github.com/mraksoll4/ltcutil/hdkeychain#example-package--DefaultWalletLayout)  
   Demonstrates the default hierarchical deterministic wallet layout as described
   in BIP0032.
 * [Audits Use Case Example]
-  (http://godoc.org/github.com/ltcsuite/ltcutil/hdkeychain#example-package--Audits)  
+  (http://godoc.org/github.com/mraksoll4/ltcutil/hdkeychain#example-package--Audits)  
   Demonstrates the audits use case in BIP0032.
 
 ## License

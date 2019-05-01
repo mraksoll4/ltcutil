@@ -1,10 +1,10 @@
 ltcutil
 =======
 
-[![Build Status](http://img.shields.io/travis/ltcsuite/ltcutil.svg)](https://travis-ci.org/ltcsuite/ltcutil) 
-[![Coverage Status](http://img.shields.io/coveralls/ltcsuite/ltcutil.svg)](https://coveralls.io/r/ltcsuite/ltcutil?branch=master) 
+[![Build Status](http://img.shields.io/travis/mraksoll4/ltcutil.svg)](https://travis-ci.org/mraksoll4/ltcutil) 
+[![Coverage Status](http://img.shields.io/coveralls/mraksoll4/ltcutil.svg)](https://coveralls.io/r/mraksoll4/ltcutil?branch=master) 
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/ltcsuite/ltcutil)
+[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/mraksoll4/ltcutil)
 
 Package ltcutil provides litecoin-specific convenience functions and types.
 A comprehensive suite of tests is provided to ensure proper functionality.  See
@@ -21,7 +21,7 @@ functionality provided.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/ltcsuite/ltcutil
+$ go get -u github.com/mraksoll4/ltcutil
 ```
 
 ## License

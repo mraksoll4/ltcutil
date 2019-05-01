@@ -9,9 +9,9 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/ltcsuite/ltcd/chaincfg/chainhash"
-	"github.com/ltcsuite/ltcd/wire"
-	"github.com/ltcsuite/ltcutil/bloom"
+	"github.com/mraksoll4/ltcd/chaincfg/chainhash"
+	"github.com/mraksoll4/ltcd/wire"
+	"github.com/mraksoll4/ltcutil/bloom"
 )
 
 // This example demonstrates how to create a new bloom filter, add a transaction

@@ -13,8 +13,8 @@ import (
 	"testing"
 
 	"github.com/btcsuite/golangcrypto/ripemd160"
-	"github.com/ltcsuite/ltcd/chaincfg"
-	"github.com/ltcsuite/ltcutil"
+	"github.com/mraksoll4/ltcd/chaincfg"
+	"github.com/mraksoll4/ltcutil"
 )
 
 func TestAddresses(t *testing.T) {
